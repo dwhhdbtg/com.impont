@@ -1,0 +1,6 @@
+#@SwitchHosts! {"url": null, "icon_idx": 0, "title": "bos\u5f00\u53d1\u73af\u5883"}
+# common
+
+# --------------------------------------------------
+# bos开发环境
+127.0.0.1 bos.com
